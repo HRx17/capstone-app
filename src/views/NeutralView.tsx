@@ -1,6 +1,6 @@
 import { useState, useMemo, useEffect } from 'react';
 import { motion, Reorder, AnimatePresence } from 'framer-motion';
-import { Search } from 'lucide-react';
+
 import { AppIcon } from '../components/AppIcon';
 import { APPS } from '../data/apps';
 import { PageViewer } from '../components/PageViewer';
